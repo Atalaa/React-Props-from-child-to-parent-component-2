@@ -1,3 +1,3 @@
-# react-ts-rauzhi
+# Props from child to parent component 2
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-rauzhi)
+## [👉 Here](https://stackblitz.com/edit/react-ts-rauzhi)
